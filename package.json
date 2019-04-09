@@ -1,0 +1,29 @@
+{
+  "name": "collect-local-components",
+  "version": "1.0.0",
+  "description": "Collect components from local html files",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "css-select": "^2.0.2",
+    "deep-equal": "^1.0.1",
+    "object-assign": "^4.1.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArnoMandersTfe/collect-local-components.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArnoMandersTfe/collect-local-components/issues"
+  },
+  "homepage": "https://github.com/ArnoMandersTfe/collect-local-components#readme"
+}
