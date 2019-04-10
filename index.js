@@ -147,4 +147,4 @@ function scraper(options){
 
 }
 
-exports.scraper = scraper;
+module.exports = scraper;
