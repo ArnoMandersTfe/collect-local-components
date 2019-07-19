@@ -18,7 +18,6 @@ var parser = require('./lib/parser.js');
 
 
 function scraper(options){
-	console.log('scraper');
 	if(typeof options === 'undefined'){
 		throw new Error('settings object is required.');
 	}
